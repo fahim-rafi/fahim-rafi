@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-Hi there 👋<br><br>I’m an aspiring data scientist and have completed my BBA in Finance at IBA, University of Dhaka. I wish to build, and work alongside, a data science team solving problems for the masses.<br><br> ✍🏽 I'm a self-taught programmer specializing in Python and SQL.<br> 🌱 I’m currently learning full stack development in the hopes of deploying large scale ML projects on the interwebs.<br>
+Hi there 👋 I’m Fahim, an aspiring machine learning engineer. <br> ✍🏽 I'm a self-taught programmer specializing in Python and SQL.<br> 🌱 I’m currently learning full stack development in the hopes of deploying large scale ML projects on the interwebs.<br>
 
 <!-- 📫 Find me on [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/fahimrafi) and [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/fahimrafi0). -->
 
