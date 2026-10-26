@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-Hi there 👋 I’m Fahim, an aspiring machine learning engineer. <br> ✍🏽 I'm a self-taught programmer specializing in Python and SQL.<br> 🌱 I’m currently learning full stack development in the hopes of deploying large scale ML projects on the interwebs.<br>
+Hi there 👋 I’m Fahim, a data engineer. <br> ✍🏽 I'm a self-taught programmer specializing in Python and SQL.<br> 🌱
 
 <!-- 📫 Find me on [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/fahimrafi) and [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/fahimrafi0). -->
 
